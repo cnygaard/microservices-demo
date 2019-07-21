@@ -1,0 +1,1 @@
+{"jobID":"661d1694-f46b-01db-5891-5ba145d6aae7","spec":{"type":"policy","cause":{"Message":"","User":"Christian Nygaard \u003cchristian@cnygaard.com\u003e"},"spec":{"sock-shop:deployment/front-end":{"add":null,"remove":{"automated":"true"}}}},"result":null}
